@@ -1,9 +1,10 @@
-	body {
+	html, body {
 		font-family: Arial, sans-seriff;
 		background-image:url(file:///Users/androgabriel/Desktop/hd-wallpaper-5992-6324-hd-wallpapers.jpg);
 		background-repeat: no-repeat;
 		background-position:50% 50%;
 		background-position: 50% 50%9 !important; 
+
 			}
 		p {
 			color: #fff;
@@ -49,6 +50,7 @@
 		}
 
 		img {
+			
 			background-color: white;
 			border:1 px white;
 			padding:3px;
