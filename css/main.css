@@ -7,61 +7,51 @@
 		radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 8px 9px;
 		background-color:#282828;
 		background-size:16px 16px;
-
-
-			}
-		p {
-			color: #fff;
-			margin-top:10px;
-			margin-bottom:10px;
-
-		}	
-		h2 {
-			margin-left:400px;
-			margin-right:400px;
-			margin-top:200px;
-			padding:0;
-			color: orange;
-			position:relative;
-			bottom:100px;
-
-			
-		} 
-		dt {
-			float:left;
-			color: orange;
-			width: 180px;
-			
-		}
-		dd {
-			margin-left: 200px;
-			border-left: 2px solid orange;
-			padding-left:10px;
-			color:white;
-			padding:2px;
-		}
-		dd p{
-			margin:0;
-			
-
-		}
-		.main-heading{
-			padding-bottom:20px;
-		}
-		.large-input{
-			padding-bottom:20px;
-			padding-top:20px;
-		}
-
-		img {
-			
-			background-color: white;
-			border:1px white;
-			padding:3px;
-			padding-bottom: 3px;
-			position:relative;
-			float:right;
-			box-shadow: 10px 10px 10px white;
-			margin-top:-190px;
-			margin-right:15px;
-		}
+	}
+	p {
+		color: #fff;
+		margin-top:10px;
+		margin-bottom:10px;
+	}	
+	h2 {
+		margin-left:400px;
+		margin-right:400px;
+		margin-top:200px;
+		padding:0;
+		color: orange;
+		position:relative;
+		bottom:100px;
+	} 
+	dt {
+		float:left;
+		color: orange;
+		width: 180px;
+	}
+	dd {
+		margin-left: 200px;
+		border-left: 2px solid orange;
+		padding-left:10px;
+		color:white;
+		padding:2px;
+	}
+	dd p{
+		margin:0;
+	}
+	.main-heading{
+		padding-bottom:20px;
+	}
+	.large-input{
+		padding-bottom:20px;
+		padding-top:20px;
+	}
+	img {
+		background-color: white;
+		border:1px white;
+		padding:3px;
+		padding-bottom: 3px;
+		position:relative;
+		float:right;
+		box-shadow: 10px 10px 10px white;
+		margin-top:-190px;
+		margin-right:15px;
+	}
